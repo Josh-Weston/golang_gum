@@ -1,0 +1,1 @@
+To work with gum, you create a bash script and call gum (which is an installed binary built in golang)
